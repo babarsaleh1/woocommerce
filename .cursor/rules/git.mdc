@@ -23,6 +23,7 @@ There must be an empty line between the subject line and the rest of the commit 
 The commit message should explain what caused the problem and what its consequences are (if helpful for understanding the changes).
 
 The commit message should explain how the changes achieve the goal, but only if it isn't obvious.
+- `add/{short-slug}` for changes that are adding a new feature.updated
 
 
 
